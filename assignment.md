@@ -29,7 +29,7 @@ div:nth-child(6)
 
 5. What is the code you use to keep the blue box within the purple?
 ```
-Change width to blank
+Change width of child selector to blank
 ```
 
 > hint: you should apply box-sizing property to the `.child` class. Make the changes on the developer's tool to see immediate UI change.
